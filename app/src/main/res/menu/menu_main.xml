@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.foxhole.roomdatabasemvvmcrud.View.MainActivity">
+    <item
+        android:id="@+id/delete_allPlayer"
+        android:orderInCategory="100"
+        android:title="Delete All Player"
+        app:showAsAction="never" />
+</menu>
